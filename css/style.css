@@ -145,6 +145,10 @@ section{position:relative;z-index:2}
 .pack-time{font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--ember);margin-bottom:10px}
 .pack h3{font-size:26px;margin-bottom:6px}
 .pack-tag{color:var(--cream-faint);font-size:14.5px;margin-bottom:20px;font-style:italic;font-family:var(--serif)}
+.pack-price{
+  font-family:var(--serif);font-style:italic;font-size:24px;color:var(--gold-soft);
+  padding-bottom:16px;margin-bottom:6px;border-bottom:1px solid rgba(201,162,107,.25);
+}
 .pack ul{list-style:none;margin-bottom:26px;flex:1}
 .pack li{
   padding:8px 0 8px 26px;position:relative;color:var(--cream-dim);font-size:14.5px;line-height:1.5;
