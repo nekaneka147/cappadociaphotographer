@@ -6,9 +6,10 @@ Kural: konu, insanların Google'a gerçekten yazdığı bir soruyu karşılamal�
 ## Yayınlananlar
 - [x] 2026-08-16 — **When Do the Balloons Fly? The Best Month for a Cappadocia Photoshoot**
       (`best-month-cappadocia-photoshoot`) — balon uçuş olasılığı ay ay, tarihi sabit olanlara plan
+- [x] 2026-09-11 — **What to Wear for a Cappadocia Photoshoot: Colours, Shoes and the Flying Dress**
+      (`what-to-wear-cappadocia-photoshoot`) — renk tablosu, uçan elbise pratikte, iki çift ayakkabı, gün doğumu katmanı, erkek kıyafeti
 
 ## Sırada
-- [ ] **What to Wear for a Cappadocia Photoshoot** — renk paleti (vadiye karşı ne çalışır/ne kaybolur), uçan elbise pratikte nasıl, ayakkabı, katman, erkek ne giyer. Çok aranan, çok az iyi cevaplanan konu.
 - [ ] **A Sunrise Session, Hour by Hour** — 04:30 alım → hangi vadi → kaç lokasyon → 07:30 kahvaltı. Beklentiyi yönetir, "erken kalkmaya değer mi" itirazını kırar.
 - [ ] **Where Exactly Are the Photos Taken? A Map of Our Locations** — Göreme, Uçhisar, Love Valley, mağara otel terasları, halı/lamba dükkânı, yılkı atları. Yer adları güçlü arama terimi.
 - [ ] **Cappadocia in Winter: Snow, Fewer Balloons, Better Photos** — kışın gelenler için dürüst pazarlık. Ölü sezonu doldurur.

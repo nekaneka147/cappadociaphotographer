@@ -29,8 +29,8 @@ LANG_META = {
 
 T = {
 "en": {
- "meta_title": "Cappadocia Photographer — Wife & Husband Photoshoot Team | Sunrise Balloon Sessions",
- "meta_desc": "Professional photoshoots in Cappadocia with a local wife & husband team. Sunrise hot-air balloon sessions, flying dress, wild horses, cave hotels. All photos included — book via WhatsApp.",
+ "meta_title": "Cappadocia Photographer | Wife & Husband Balloon Photoshoots",
+ "meta_desc": "Photoshoots in Cappadocia with a local wife & husband team: sunrise balloons, flying dresses, wild horses, cave hotels. All photos included — book on WhatsApp.",
  "wa_text": "Hello! I would like to book a photoshoot in Cappadocia.",
  "nav": ["Packages","Experiences","Gallery","Reviews","About","FAQ"],
  "nav_cta": "Book Now",
@@ -128,8 +128,8 @@ T = {
 },
 
 "ru": {
- "meta_title": "Фотограф в Каппадокии — семейная пара фотографов | Фотосессии на рассвете с шарами",
- "meta_desc": "Профессиональные фотосессии в Каппадокии от местной пары фотографов. Рассвет с воздушными шарами, летящее платье, дикие лошади, пещерные отели. Все фото включены — бронируйте в WhatsApp.",
+ "meta_title": "Фотограф в Каппадокии | Фотосессии на рассвете с шарами",
+ "meta_desc": "Фотосессии в Каппадокии от местной пары фотографов: рассвет с шарами, летящее платье, дикие лошади, пещерные отели. Все фото включены — пишите в WhatsApp.",
  "wa_text": "Здравствуйте! Хочу забронировать фотосессию в Каппадокии.",
  "nav": ["Пакеты","Впечатления","Галерея","Отзывы","О нас","Вопросы"],
  "nav_cta": "Забронировать",
@@ -227,8 +227,8 @@ T = {
 },
 
 "es": {
- "meta_title": "Fotógrafo en Capadocia — equipo de esposos | Sesiones al amanecer con globos",
- "meta_desc": "Sesiones de fotos profesionales en Capadocia con una pareja local de fotógrafos. Amanecer con globos aerostáticos, vestido volador, caballos salvajes, hoteles cueva. Todas las fotos incluidas — reserva por WhatsApp.",
+ "meta_title": "Fotógrafo en Capadocia | Sesiones al amanecer con globos",
+ "meta_desc": "Sesiones de fotos en Capadocia con una pareja local: globos al amanecer, vestido volador, caballos salvajes y hoteles cueva. Todas las fotos incluidas.",
  "wa_text": "¡Hola! Me gustaría reservar una sesión de fotos en Capadocia.",
  "nav": ["Paquetes","Experiencias","Galería","Opiniones","Nosotros","Preguntas"],
  "nav_cta": "Reservar",
@@ -326,8 +326,8 @@ T = {
 },
 
 "fr": {
- "meta_title": "Photographe en Cappadoce — couple de photographes | Séances au lever du soleil avec montgolfières",
- "meta_desc": "Séances photo professionnelles en Cappadoce avec un couple local de photographes. Lever de soleil avec montgolfières, robe volante, chevaux sauvages, hôtels troglodytes. Toutes les photos incluses — réservez via WhatsApp.",
+ "meta_title": "Photographe en Cappadoce | Séances photo avec montgolfières",
+ "meta_desc": "Séances photo en Cappadoce avec un couple local : montgolfières à l'aube, robe volante, chevaux sauvages, hôtels troglodytes. Toutes les photos incluses.",
  "wa_text": "Bonjour ! Je souhaite réserver une séance photo en Cappadoce.",
  "nav": ["Formules","Expériences","Galerie","Avis","À propos","FAQ"],
  "nav_cta": "Réserver",
@@ -916,7 +916,10 @@ def blog_post(lang, p):
         {"@type":"ListItem","position":3,"name":i["title"],"item":canonical}]}
     ld = (f'<script type="application/ld+json">{json.dumps(art,ensure_ascii=False)}</script>\n'
           f'<script type="application/ld+json">{json.dumps(crumbs,ensure_ascii=False)}</script>')
-    head = blog_chrome_head(lang, i["title"] + " | Cappadocia Photographer", i["desc"],
+    full_title = i["title"] + " | Cappadocia Photographer"
+    if len(full_title) > 65:  # Google ~60 karakterde keser; uzun basliga marka eki eklenmez
+        full_title = i["title"]
+    head = blog_chrome_head(lang, full_title, i["desc"],
                             canonical, p["image"], blog_hreflangs(p["slug"]), ld)
     others = [q for q in POSTS if q["slug"] != p["slug"]][:3]
     more = (f'''<section class="blog-more"><div class="wrap">
