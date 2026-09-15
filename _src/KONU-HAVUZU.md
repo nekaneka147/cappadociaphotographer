@@ -8,9 +8,10 @@ Kural: konu, insanların Google'a gerçekten yazdığı bir soruyu karşılamal�
       (`best-month-cappadocia-photoshoot`) — balon uçuş olasılığı ay ay, tarihi sabit olanlara plan
 - [x] 2026-09-11 — **What to Wear for a Cappadocia Photoshoot: Colours, Shoes and the Flying Dress**
       (`what-to-wear-cappadocia-photoshoot`) — renk tablosu, uçan elbise pratikte, iki çift ayakkabı, gün doğumu katmanı, erkek kıyafeti
+- [x] 2026-09-15 — **A Sunrise Session, Hour by Hour: What Actually Happens Before Breakfast**
+      (`sunrise-session-hour-by-hour-cappadocia`) — 04:30 alımdan 07:30 dönüşe saat saat akış, yaz/kış saat tablosu, balon/at garantisi olmadığı dürüstlüğü
 
 ## Sırada
-- [ ] **A Sunrise Session, Hour by Hour** — 04:30 alım → hangi vadi → kaç lokasyon → 07:30 kahvaltı. Beklentiyi yönetir, "erken kalkmaya değer mi" itirazını kırar.
 - [ ] **Where Exactly Are the Photos Taken? A Map of Our Locations** — Göreme, Uçhisar, Love Valley, mağara otel terasları, halı/lamba dükkânı, yılkı atları. Yer adları güçlü arama terimi.
 - [ ] **Cappadocia in Winter: Snow, Fewer Balloons, Better Photos** — kışın gelenler için dürüst pazarlık. Ölü sezonu doldurur.
 - [ ] **Engagement & Proposal Shoots: How We Keep the Surprise** — gizli çekim nasıl kurgulanır, konum seçimi, partnerin hiçbir şey anlamaması. Yüksek niyetli trafik.
