@@ -10,9 +10,10 @@ Kural: konu, insanların Google'a gerçekten yazdığı bir soruyu karşılamal�
       (`what-to-wear-cappadocia-photoshoot`) — renk tablosu, uçan elbise pratikte, iki çift ayakkabı, gün doğumu katmanı, erkek kıyafeti
 - [x] 2026-09-15 — **A Sunrise Session, Hour by Hour: What Actually Happens Before Breakfast**
       (`sunrise-session-hour-by-hour-cappadocia`) — 04:30 alımdan 07:30 dönüşe saat saat akış, yaz/kış saat tablosu, balon/at garantisi olmadığı dürüstlüğü
+- [x] 2026-10-01 — **Where Exactly Are the Photos Taken? A Map of Our Locations**
+      (`cappadocia-photoshoot-locations`) — Göreme & mağara otel terasları, Love/Pigeon/Rose Valley, Uçhisar manzara noktaları, halı & lamba dükkânı, yılkı atlarının garantisiz olduğu dürüstlüğü
 
 ## Sırada
-- [ ] **Where Exactly Are the Photos Taken? A Map of Our Locations** — Göreme, Uçhisar, Love Valley, mağara otel terasları, halı/lamba dükkânı, yılkı atları. Yer adları güçlü arama terimi.
 - [ ] **Cappadocia in Winter: Snow, Fewer Balloons, Better Photos** — kışın gelenler için dürüst pazarlık. Ölü sezonu doldurur.
 - [ ] **Engagement & Proposal Shoots: How We Keep the Surprise** — gizli çekim nasıl kurgulanır, konum seçimi, partnerin hiçbir şey anlamaması. Yüksek niyetli trafik.
 - [ ] **How Many Photos Do You Actually Get?** — teslim adedi, retuş, teslim süresi, ham kareler. Fiyat sayfasının cevaplamadığı asıl soru.
