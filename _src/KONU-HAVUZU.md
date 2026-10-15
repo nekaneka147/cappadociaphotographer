@@ -12,9 +12,10 @@ Kural: konu, insanların Google'a gerçekten yazdığı bir soruyu karşılamal�
       (`sunrise-session-hour-by-hour-cappadocia`) — 04:30 alımdan 07:30 dönüşe saat saat akış, yaz/kış saat tablosu, balon/at garantisi olmadığı dürüstlüğü
 - [x] 2026-10-01 — **Where Exactly Are the Photos Taken? A Map of Our Locations**
       (`cappadocia-photoshoot-locations`) — Göreme & mağara otel terasları, Love/Pigeon/Rose Valley, Uçhisar manzara noktaları, halı & lamba dükkânı, yılkı atlarının garantisiz olduğu dürüstlüğü
+- [x] 2026-10-15 — **Cappadocia in Winter: Snow, Fewer Balloons, Better Photos**
+      (`cappadocia-winter-photoshoot`) — gerçek kış sıcaklıkları, kar şansı, boş vadiler, uzun süren ışık, kötü havada halı/lamba dükkânı ve mağara otel terasına geçiş, balon sayısının söz verilemeyeceği dürüstlüğü
 
 ## Sırada
-- [ ] **Cappadocia in Winter: Snow, Fewer Balloons, Better Photos** — kışın gelenler için dürüst pazarlık. Ölü sezonu doldurur.
 - [ ] **Engagement & Proposal Shoots: How We Keep the Surprise** — gizli çekim nasıl kurgulanır, konum seçimi, partnerin hiçbir şey anlamaması. Yüksek niyetli trafik.
 - [ ] **How Many Photos Do You Actually Get?** — teslim adedi, retuş, teslim süresi, ham kareler. Fiyat sayfasının cevaplamadığı asıl soru.
 - [ ] **Family & Solo Photoshoots in Cappadocia** — çift olmayan segment (aile, tek başına gezginler, doğum günü). Şu an sitede zayıf temsil ediliyor.
